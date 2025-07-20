@@ -19,3 +19,5 @@ Run the program and follow the prompts for the video URL and optional brightness
 ```
 
 The script downloads the video and streams it in ASCII directly in your terminal.
+It also saves a colored ASCII version of the video as `ascii_output.mp4` encoded
+at 60&nbsp;fps in the current directory.
